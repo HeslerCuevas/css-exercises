@@ -3,17 +3,17 @@
     font-family:Verdana, "DejaVu San" sans-serif;
 }
 
-.ID1 {
+#ID1 {
     color:blue;
-    font: size 36px;
+    font-size: 36px;
 }
 
-.odd.ID1 {
-    font: size 24px;
+#CoolerClass {
+    font-size: 24px;
 }
 
 #ID2 {
     background-color:lightgreen;
-    font: size 24px;
+    font-size: 24px;
     font-weight:bold;
 }
